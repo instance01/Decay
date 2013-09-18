@@ -1,0 +1,11 @@
+name: Decay
+main: com.comze_instancelabs.decay_test.Main
+version: 1.0
+author: instancelabs
+commands:
+   decay:
+      description: Main decay command
+      usage: /decay
+   stopdecay:
+      description: Stop decay
+      usage: /stopdecay
